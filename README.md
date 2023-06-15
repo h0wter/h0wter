@@ -9,7 +9,7 @@
 - 😄 Pronouns: Developer Extraordinaire, JavaScript Ninja, CSS Guru...just kidding, he/him will do!
 - ⚡ Fun fact: I once solved a coding problem in my sleep, but unfortunately, dream code doesn't compile in the real world. Still a proud achievement though!
 
-### Things I code with
+### Things I code with 👨‍💻
 
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
