@@ -1,20 +1,13 @@
 ### Hi there, I'm Vladyslav👋
 
-🔭 I’m currently working on finding the perfect balance between code and coffee, it's a never-ending quest!
-
-🌱 I’m currently learning the art of juggling multiple browser tabs while keeping my sanity intact.
-
-👯 I’m looking to collaborate on building the next-gen web experience, where browsers sing, websites dance, and users can't help but join the party!
-
-🤔 I’m looking for help with resisting the temptation to refactor perfectly fine code just because I discovered a new fancy programming pattern.
-
-💬 Ask me about the time I accidentally turned a coffee machine into a sentient being with a few lines of JavaScript. It's a tale of caffeine-fueled adventures!
-
-📫 How to reach me: Feel free to send me a message through carrier pigeons. Just make sure they're well-versed in Morse code!
-
-😄 Pronouns: Developer Extraordinaire, JavaScript Ninja, CSS Guru...just kidding, he/him will do!
-
-⚡ Fun fact: I once solved a coding problem in my sleep, but unfortunately, dream code doesn't compile in the real world. Still a proud achievement though!
+- 🔭 I’m currently working on finding the perfect balance between code and coffee, it's a never-ending quest!
+- 🌱 I’m currently learning the art of juggling multiple browser tabs while keeping my sanity intact.
+- 👯 I’m looking to collaborate on building the next-gen web experience, where browsers sing, websites dance, and users can't help but join the party!
+- 🤔 I’m looking for help with resisting the temptation to refactor perfectly fine code just because I discovered a new fancy programming pattern.
+- 💬 Ask me about the time I accidentally turned a coffee machine into a sentient being with a few lines of JavaScript. It's a tale of caffeine-fueled adventures!
+- 📫 How to reach me: Feel free to send me a message through carrier pigeons. Just make sure they're well-versed in Morse code!
+- 😄 Pronouns: Developer Extraordinaire, JavaScript Ninja, CSS Guru...just kidding, he/him will do!
+- ⚡ Fun fact: I once solved a coding problem in my sleep, but unfortunately, dream code doesn't compile in the real world. Still a proud achievement though!
 
 ### My stack
 
